@@ -3,3 +3,5 @@ test file added for sample testing\
 changes for to see the difference cmd in git
 
 to check pull option
+
+to check git gui 
